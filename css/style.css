@@ -1,0 +1,15 @@
+.barraHeader{
+    background-color: blue;
+}
+
+.btn-shop{
+    justify-content: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.btn-shop svg{
+    vertical-align: 0%;
+    margin-right: 5px;
+}
